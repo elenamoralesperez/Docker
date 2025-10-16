@@ -1,2 +1,1 @@
-# Docker_D
-*Apuntes* 
+# Apuntes-Docker
