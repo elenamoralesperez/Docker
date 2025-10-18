@@ -54,7 +54,9 @@
 - Elimina contenedores parados, imagenes viejas, caché sin usar..., data que no se usa: **docker system prune**
 - Ver cuanto esta consumiendo: **docker system df**
 - Ver informacion del sistema: **docker system info**
-
+- Ver variables de entorno: **docker exec *nombrecontenedor* printenv**
+- Elimina los contenedores y la red: **docker compose down**
+- Muestra lista de contenedores que están actualmente en ejecucion: **docker compose ps**
 
 
 ## DOCKER HUB
