@@ -1,5 +1,4 @@
-import sys
-print(sys.argv), len(sys.argv)      
+import sys  
 
 def suma(numero1, numero2):
     return numero1 + numero2
