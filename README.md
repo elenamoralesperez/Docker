@@ -10,26 +10,32 @@ Introducción a Docker
 
 Imágenes y contenedores
 
-Volúmenes
+Dockerfile (instrucciones, buenas prácticas)
 
-Dockerfile 
+Redes en Docker
 
-Redes
+Volúmenes y persistencia
 
 Docker Compose
 
-Registro de imágenes
+Registries (Docker Hub, otros)
 
-### 🧪 Prácticas / Ejercicios
+### 🧪 Ejercicios / Prácticas
 
-Crear y ejecutar contenedores simples
+Construir imágenes 
 
-Construcción de imágenes personalizadas
+Ejecutar contenedores con comandos 
 
-Uso de volúmenes para persistencia
+Usar volúmenes
 
-Configuración de redes entre contenedores
+Conectar contenedores mediante redes personalizadas
 
-Despliegues con Docker Compose
+Crear archivos docker-compose.yml para varios servicios
 
-Scripts útiles
+Optimización de Dockerfiles
+
+Mini-aplicaciones dockerizadas
+
+Scripts para automatización
+
+Ejemplos de deploy local
